@@ -11,6 +11,12 @@ This project aims to predict employee attrition using HR analytics data.
 - Built a Logistic Regression model
 - Evaluated performance using accuracy and confusion matrix
 
+  ## Model Evaluation
+
+### Confusion Matrix
+
+![Confusion Matrix](Confusion_Matrix.PNG)
+
 ## Tools & Libraries
 - Python
 - Pandas
